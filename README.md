@@ -1,8 +1,3 @@
 - 👋 Hi, I’m Phil from @norcal-technologies
 
-- 📫 How to reach me ... phil.smith@norcaltechnologies.com
-
-<!---
-norcal-technologies/norcal-technologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me at phil.smith@norcaltechnologies.com
